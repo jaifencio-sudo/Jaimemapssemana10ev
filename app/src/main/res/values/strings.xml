@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">jaimemaps</string>
+    <string name="cd_my_location">Mi ubicación</string>
+    <string name="cd_camera">Tomar foto</string>
+    <string name="cd_clear">Eliminar marcadores</string>
+    <string name="cd_photo">Foto capturada (toca para ocultar)</string>
+</resources>
